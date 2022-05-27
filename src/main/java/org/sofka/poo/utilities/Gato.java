@@ -35,7 +35,7 @@ public class Gato extends Animal implements IGato {
     }
 
     @Override
-    public void bañar() {
+    public void baniar() {
         logger.info(getNombre() + " se está bañando");
     }
 

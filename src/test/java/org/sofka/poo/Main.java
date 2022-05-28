@@ -2,6 +2,13 @@ package org.sofka.poo;
 
 import org.sofka.poo.utilities.*;
 
+/**
+ * Clase de prueba para el proyecto de POO (Programación Orientada a Objetos)
+ *
+ * @author Óscar Farfán - oscarfarfan92@gmail.com
+ *
+ * @version 1.0.0.000 27-05-2022
+ */
 public class Main {
     public static void main(String[] args) {
         Perro perro1 = new Perro("Tobias", 2, "Café", 10, "Labrador");
